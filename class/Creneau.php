@@ -1,6 +1,5 @@
 <?php
-class Creneau 
-{
+class Creneau {
 
     public $debut; 
 
